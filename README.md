@@ -2,6 +2,9 @@
 
 This repository contains the complete code for a full-stack e-commerce website built from scratch using the **MERN** stack. This project serves as a comprehensive guide for creating a modern, responsive, and fully functional online store.
 
+Live Demo: https://forevershops.netlify.app/
+
+
 ## **Features**
 
 * **Homepage:** A clean and modern homepage design.
