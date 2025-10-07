@@ -4,6 +4,9 @@ This repository contains the complete code for a full-stack e-commerce website b
 
 Live Demo: https://forevershops.netlify.app/
 
+<img width="1292" height="577" alt="t2 1" src="https://github.com/user-attachments/assets/57391f89-bd9d-4c61-b311-280f85e76bc6" />
+
+
 
 ## **Features**
 
